@@ -59,15 +59,19 @@ main {
 aside {
 	float: right;
 	width: 30%;
+  text-align: center;
 }
 article {
     border-bottom: 2px dotted #999;
     padding-bottom: 20px;
     margin-bottom: 20px;
+    -webkit-text-stroke: 0.2px black;
+    text-align: center;
 }
 article h2 {
     font-weight: normal;
     margin-bottom: 12px;
+    text-align: center;
 }
 	
 footer {
