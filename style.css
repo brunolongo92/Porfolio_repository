@@ -66,7 +66,7 @@ article {
     padding-bottom: 20px;
     margin-bottom: 20px;
     -webkit-text-stroke: 0.2px black;
-    text-align: center;
+    text-align: -webkit-center;
 }
 article h2 {
     font-weight: normal;
